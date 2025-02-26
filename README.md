@@ -13,7 +13,7 @@
 
 ### 🚀 Install on termux
 ```
-rm -rf Prem
+rm -rf Create
 
 pkg install git python -y
 
@@ -27,29 +27,37 @@ pip install rich
 
 pip install pycryptodome
 
+pip install requests
+
+pip Install mechanize
+
+pip install rich
+
+pip install faker
+
 pip install pytz
 
-git clone https://github.com/Arifxeyracode-Dev/Prem
+git clone https://github.com/Arifsinratensei/Create
 
-cd Prem
+cd Create
 
-python3.12 menu.py
+python3.12 Arf_enc.py
 
 New Update Free All User
 
-• KEY REGISTER :  MFNNQ-OEKME-FESQB-BGTCC •
+• KEY REGISTER :  MOALO-PRDXZ-VILDE-ULSMK •
 ```
 
-### If you have installed it
+### Jika Anda Sudah Menginstal Semua bahannya Cukup Jalankan Ini
 ```
 cd $HOME
 cd Prem
-python3.12 menu.py
+python3.12 Arf_enc.py
 ```
 
 ### Display
 ![Logo](image/provescrek.png)
 
 🎥 Watch Tutorial on WhatsApp
-<div align="center"> <a href="https://chat.whatsapp.com/LP0ZXCYntxT6BKYEAqw4JP" target="_blank"> <img src="https://img.shields.io/badge/Watch%20Tutorial%20on%20WhatsApp-red?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp Button"></a> </div>
+<div align="center"> <a href="https://chat.whatsapp.com/E021wtMzn7D5Wak1OaCmI9" target="_blank"> <img src="https://img.shields.io/badge/Watch%20Tutorial%20on%20WhatsApp-red?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp Button"></a> </div>
 
