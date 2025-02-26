@@ -13,6 +13,8 @@
 
 ### 🚀 Install on termux
 ```
+cd /sdcard
+
 rm -rf Create
 
 pkg install git python -y
@@ -41,7 +43,7 @@ git clone https://github.com/Arifsinratensei/Create
 
 cd Create
 
-python3.12 Arf_enc.py
+python3.12 Prem_enc.py
 
 New Update Free All User
 
@@ -52,7 +54,7 @@ New Update Free All User
 ```
 cd $HOME
 cd Prem
-python3.12 Arf_enc.py
+python3.12 Prem_enc.py
 ```
 
 ### Display
